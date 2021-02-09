@@ -2,7 +2,7 @@
 
 #### Simple Poll Application created with Django framework
 
-![App image]()
+![App image](https://github.com/anant0103/Django_Poll_Application/blob/master/image11.png)
 
 ## Table of contents
 * [General info](#general-info)
