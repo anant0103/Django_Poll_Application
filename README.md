@@ -1,4 +1,4 @@
-# Django Poll Application
+# Django Poll Application 
 
 #### Simple Poll Application created with Django framework
 
