@@ -1,4 +1,4 @@
-# Django Poll Application 
+# Django Poll Application  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 #### Simple Poll Application created with Django framework
 
@@ -23,3 +23,4 @@ To run this project, install it and run following command:
 ```
 >> python manage.py runserver
 ```
+ 
