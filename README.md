@@ -2,6 +2,8 @@
 
 #### Simple Poll Application created with Django framework
 
+![App image]()
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
